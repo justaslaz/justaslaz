@@ -22,6 +22,18 @@ Experienced business management and finance professional with a demonstrated abi
 ### 🧨 CodeWars
 
 <img align="left" alt="Codeware Profile Badge" src="https://www.codewars.com/users/justaslaz/badges/large" />
+<br />
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Projects:</h3></summary>
+  "[Food Recipes][food-recipes]"
+  <br />
+  "[Cosmetologist Silvija][cosmetologist-silvija]"
+
+[food-recipes]: https://receptai-justas.netlify.app
+[cosmetologist-silvija]: https://kosmetologe-silvija.netlify.app
 
 <!--
 **justaslaz/justaslaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
