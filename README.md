@@ -1,6 +1,6 @@
 # 🌱 Justas Laževnikas
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Web Developer (Former CEO and CFO)`**
 
 Experienced business management and finance professional with a demonstrated ability to learn, collaborate, and lead in rapidly changing environments. Completed extensive online training in front-end software development, eager to apply these skills and bring valuable experience as a former CFO and CEO to new challenges.
 
@@ -19,11 +19,9 @@ Experienced business management and finance professional with a demonstrated abi
 
 #
 
-### 📊 Stats
+### 🧨 CodeWars
 
 <img align="left" alt="Codeware Profile Badge" src="https://www.codewars.com/users/justaslaz/badges/large" />
-
-#
 
 <!--
 **justaslaz/justaslaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
