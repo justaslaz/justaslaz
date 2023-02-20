@@ -28,9 +28,9 @@ Experienced business management and finance professional with a demonstrated abi
 
 <details>
  <summary><h3>👨‍💻 Projects:</h3></summary>
-  [Food Recipes](https://receptai-justas.netlify.app)
+  Food Recipes - https://receptai-justas.netlify.app
   <br />
-  [Cosmetologist Silvija](https://kosmetologe-silvija.netlify.app)
+  Cosmetologist Silvija - https://kosmetologe-silvija.netlify.app
 
 <!--
 **justaslaz/justaslaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
