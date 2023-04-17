@@ -1,6 +1,6 @@
 # 🌱 Justas Laževnikas
 
-**`Web Developer (Former CEO and CFO)`**
+**`Web Developer`**
 
 Experienced business management and finance professional with a demonstrated ability to learn, collaborate, and lead in rapidly changing environments. Completed extensive online training in front-end software development, eager to apply these skills and bring valuable experience as a former CFO and CEO to new challenges.
 
