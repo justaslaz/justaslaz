@@ -34,7 +34,7 @@ Experienced business management and finance professional with a demonstrated abi
  <summary><h3>👨‍💻 Projects:</h3></summary>
   Food Recipes - https://receptai.justaslazevnikas.com/
   <br />
-  Cosmetologist Silvija - https://kosmetologe-silvija.netlify.app
+  SPA Landing Page (pixel-perfect on Adobe XD design) - https://spa-landing-page-01.vercel.app/
   <br />
   Portfolio - https://justaslaz.com/
 
