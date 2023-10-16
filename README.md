@@ -1,8 +1,8 @@
 # 🌱 Justas Laževnikas
 
-**`Web Developer (Former CEO and CFO)`**
+**`Front-end Engineer (Former CEO and CFO)`**
 
-Experienced business management and finance professional with a demonstrated ability to learn, collaborate, and lead in rapidly changing environments. Completed extensive online training in front-end software development, eager to apply these skills and bring valuable experience as a former CFO and CEO to new challenges.
+Experienced business management and finance professional with a demonstrated ability to learn, collaborate, and lead in rapidly changing environments. Completed extensive online training in front-end software development and leveraged this knowledge as an intern front-end engineer. Eager to apply these newly acquired skills and bring valuable experience as a former CFO and CEO to new challenges.
 
 ---
 
