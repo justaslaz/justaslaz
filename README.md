@@ -24,8 +24,10 @@ Experienced business management and finance professional with a demonstrated abi
 
 #
 
+
+<!--  
 <details>
-<!--  <summary><h3>👨‍💻 Projects:</h3></summary>
+<summary><h3>👨‍💻 Projects:</h3></summary>
   Food Recipes - https://receptai.justaslazevnikas.com/
   <br />
   SPA Landing Page (pixel-perfect on Adobe XD design) - https://spa-landing-page-01.vercel.app/
